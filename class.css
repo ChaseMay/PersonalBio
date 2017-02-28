@@ -1,0 +1,12 @@
+div:hover {
+  color: green;
+  list-style-type: none;
+}
+
+.big {
+  color: red;
+}
+
+div p {
+  font-size: 36px;
+}
